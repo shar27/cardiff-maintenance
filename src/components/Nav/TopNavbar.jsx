@@ -40,8 +40,8 @@ export default function TopNavbar() {
   return (
     <>
       <ContactInfoSmallScreen>
-        <a href="mailto:hello@salford-handyman.co.uk">
-          📧 hello@salford-handyman.co.uk
+        <a href="mailto:cardiffpropertymaintenance.co.uk">
+          📧 cardiffpropertymaintenance.co.uk
         </a>
         <a href="tel:03333606113"
          onClick={handleCallClick}
@@ -203,10 +203,10 @@ export default function TopNavbar() {
           <UlWrapperRight className="flexNullCenter">
             <li className="semiBold font15 pointer">
               <a
-                href="mailto:hello@salford-handyman.co.uk"
+                href="mailto:cardiffpropertymaintenance.co.uk"
                 style={{ padding: "10px 30px 10px 0" }}
               >
-                📧 hello@salford-handyman.co.uk
+                📧 cardiffpropertymaintenance.co.uk
               </a>
               <br />
               <a href="tel:03333606113" 

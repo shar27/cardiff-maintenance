@@ -16,11 +16,11 @@ export default function Header() {
       <LeftSide className="flexCenter">
         <div>
         <HeadingTag>
-        Salford Handyman -
+        Cardiff Property Maintenance -
         Nationwide coverage.
           </HeadingTag>
           <LargeHeading>
-          <h2 className="extraBold font40">Salford Handyman</h2>
+          <h2 className="extraBold font40">Cardiff Property Maintenance</h2>
           
           <HeaderP className="font13 semiBold">
           Fully insured and trusted by Deputy Court Solicitors, landlords, agents, and homeowners. Free quotes with 0% finance available.

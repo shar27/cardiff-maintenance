@@ -55,7 +55,7 @@ export default function Contact() {
           window.location.replace("/thankyou");
         },
         (error) => {
-          setMessage("Error sending message, please email hello@salford-handyman.co.uk");
+          setMessage("Error sending message, please email hello@cardiffpropertymaintenance.co.uk");
           console.log(error.text);
         }
       );
